@@ -1,5 +1,5 @@
-{
-    "England Made Me": {
+[
+    {
         "name": "England Made Me",
         "artist": "Black Box Recorder",
         "genre": [
@@ -8,7 +8,7 @@
             "Pop"
         ]
     },
-    "Classics": {
+    {
         "name": "Classics",
         "artist": "Ratatat",
         "genre": [
@@ -18,14 +18,14 @@
             "Experimental Rock"
         ]
     },
-    "F\u266f A\u266f \u221e": {
+    {
         "name": "F\u266f A\u266f \u221e",
         "artist": "Godspeed You! Black Emperor",
         "genre": [
             "Post-Rock"
         ]
     },
-    "Polygondwanaland": {
+    {
         "name": "Polygondwanaland",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -33,14 +33,14 @@
             "Psychedelic Rock"
         ]
     },
-    "Lift Your Skinny Fists Like Antennas to Heaven": {
+    {
         "name": "Lift Your Skinny Fists Like Antennas to Heaven",
         "artist": "Godspeed You! Black Emperor",
         "genre": [
             "Post-Rock"
         ]
     },
-    "Paper M\u00e2ch\u00e9 Dream Balloon": {
+    {
         "name": "Paper M\u00e2ch\u00e9 Dream Balloon",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -50,14 +50,14 @@
             "Dream Pop"
         ]
     },
-    "Slow Riot for New Zero Kanada": {
+    {
         "name": "Slow Riot for New Zero Kanada",
         "artist": "Godspeed You! Black Emperor",
         "genre": [
             "Post-Rock"
         ]
     },
-    "PetroDragonic Apocalypse": {
+    {
         "name": "PetroDragonic Apocalypse",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -65,7 +65,7 @@
             "Progressive Metal"
         ]
     },
-    "Flying Microtonal Banana": {
+    {
         "name": "Flying Microtonal Banana",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -75,7 +75,7 @@
             "Krautrock"
         ]
     },
-    "Bon Iver, Bon Iver": {
+    {
         "name": "Bon Iver, Bon Iver",
         "artist": "Bon Iver",
         "genre": [
@@ -85,7 +85,7 @@
             "Experiemental"
         ]
     },
-    "In the Mountain in the Cloud": {
+    {
         "name": "In the Mountain in the Cloud",
         "artist": "Portugal. The Man",
         "genre": [
@@ -95,7 +95,7 @@
             "Art Rock"
         ]
     },
-    "Evil Friends": {
+    {
         "name": "Evil Friends",
         "artist": "Portugal. The Man",
         "genre": [
@@ -104,7 +104,7 @@
             "Progressive Rock"
         ]
     },
-    "Sun Leads Me On": {
+    {
         "name": "Sun Leads Me On",
         "artist": "Half Moon Run",
         "genre": [
@@ -113,12 +113,12 @@
             "Indie Pop"
         ]
     },
-    "Live at Bonnaroo '22": {
+    {
         "name": "Live at Bonnaroo '22",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": []
     },
-    "Gumboot Soup": {
+    {
         "name": "Gumboot Soup",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -126,7 +126,7 @@
             "Neo-Psychedelia"
         ]
     },
-    "Fishing for Fishies": {
+    {
         "name": "Fishing for Fishies",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -135,12 +135,12 @@
             "Roots Rock"
         ]
     },
-    "Hands In Our Names": {
+    {
         "name": "Hands In Our Names",
         "artist": "Karima Walker",
         "genre": []
     },
-    "In Rainbows": {
+    {
         "name": "In Rainbows",
         "artist": "Radiohead",
         "genre": [
@@ -151,36 +151,36 @@
             "Electronica"
         ]
     },
-    "I'm Wide Awake, It's Morning: A Companion": {
+    {
         "name": "I'm Wide Awake, It's Morning: A Companion",
         "artist": "Bright Eyes",
         "genre": []
     },
-    "Wolf": {
+    {
         "name": "Wolf",
         "artist": "Tyler, the Creator",
         "genre": [
             "Alternative Hip Hop"
         ]
     },
-    "Hell: The Sequel (EP)": {
+    {
         "name": "Hell: The Sequel (EP)",
         "artist": "Bad Meets Evil",
         "genre": [
             "Hip Hop"
         ]
     },
-    "Achter Tag": {
+    {
         "name": "Achter Tag",
         "artist": "Genetikk",
         "genre": []
     },
-    "Ring der Nebelungen": {
+    {
         "name": "Ring der Nebelungen",
         "artist": "Marsimoto",
         "genre": []
     },
-    "6 Feet Beneath the Moon": {
+    {
         "name": "6 Feet Beneath the Moon",
         "artist": "King Krule",
         "genre": [
@@ -190,7 +190,7 @@
             "Trip Hop"
         ]
     },
-    "The OOZ": {
+    {
         "name": "The OOZ",
         "artist": "King Krule",
         "genre": [
@@ -202,7 +202,7 @@
             "Dub"
         ]
     },
-    "Cold Spring Fault Less You": {
+    {
         "name": "Cold Spring Fault Less You",
         "artist": "Mount Kimbie",
         "genre": [
@@ -211,7 +211,7 @@
             "Art Pop"
         ]
     },
-    "Love What Survives": {
+    {
         "name": "Love What Survives",
         "artist": "Mount Kimbie",
         "genre": [
@@ -219,14 +219,14 @@
             "Electronic"
         ]
     },
-    "The Sunset Violent": {
+    {
         "name": "The Sunset Violent",
         "artist": "Mount Kimbie",
         "genre": [
             "Indie Rock"
         ]
     },
-    "'Allelujah! Don't Bend! Ascend!": {
+    {
         "name": "'Allelujah! Don't Bend! Ascend!",
         "artist": "Godspeed You! Black Emperor",
         "genre": [
@@ -234,12 +234,12 @@
             "Experimental"
         ]
     },
-    "Sunday Cravings": {
+    {
         "name": "Sunday Cravings",
         "artist": "Highcoast",
         "genre": []
     },
-    "Murder of the Universe": {
+    {
         "name": "Murder of the Universe",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -249,7 +249,7 @@
             "Progressive Metal"
         ]
     },
-    "Super What?": {
+    {
         "name": "Super What?",
         "artist": "Czarface and MF DOOM",
         "genre": [
@@ -257,19 +257,19 @@
             "Boom Bap"
         ]
     },
-    "Chunky Shrapnel": {
+    {
         "name": "Chunky Shrapnel",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": []
     },
-    "Eyes Like The Sky": {
+    {
         "name": "Eyes Like The Sky",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
             "Garage Rock"
         ]
     },
-    "Nonagon Infinity": {
+    {
         "name": "Nonagon Infinity",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -280,7 +280,7 @@
             "Heavy Metal"
         ]
     },
-    "Butterfly 3000": {
+    {
         "name": "Butterfly 3000",
         "artist": "King Gizzard & the Lizard Wizard",
         "genre": [
@@ -291,4 +291,4 @@
             "Art Pop"
         ]
     }
-}
+]
