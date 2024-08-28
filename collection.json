@@ -1,294 +1,217 @@
 [
-    {
-        "name": "England Made Me",
-        "artist": "Black Box Recorder",
-        "genre": [
-            "Country Folk",
-            "Easy Listening",
-            "Pop"
-        ]
-    },
-    {
-        "name": "Classics",
-        "artist": "Ratatat",
-        "genre": [
-            "Indie Rock",
-            "Electronica",
-            "Neo-Psychedelia",
-            "Experimental Rock"
-        ]
-    },
-    {
-        "name": "F\u266f A\u266f \u221e",
-        "artist": "Godspeed You! Black Emperor",
-        "genre": [
-            "Post-Rock"
-        ]
-    },
-    {
-        "name": "Polygondwanaland",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Progressive Rock",
-            "Psychedelic Rock"
-        ]
-    },
-    {
-        "name": "Lift Your Skinny Fists Like Antennas to Heaven",
-        "artist": "Godspeed You! Black Emperor",
-        "genre": [
-            "Post-Rock"
-        ]
-    },
-    {
-        "name": "Paper M\u00e2ch\u00e9 Dream Balloon",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Folk Rock",
-            "Psychedelic Folk",
-            "Psychedelic Pop",
-            "Dream Pop"
-        ]
-    },
-    {
-        "name": "Slow Riot for New Zero Kanada",
-        "artist": "Godspeed You! Black Emperor",
-        "genre": [
-            "Post-Rock"
-        ]
-    },
-    {
-        "name": "PetroDragonic Apocalypse",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Thrash Metal",
-            "Progressive Metal"
-        ]
-    },
-    {
-        "name": "Flying Microtonal Banana",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Psychedelic Rock",
-            "Acid Rock",
-            "Experimental Rock",
-            "Krautrock"
-        ]
-    },
-    {
-        "name": "Bon Iver, Bon Iver",
-        "artist": "Bon Iver",
-        "genre": [
-            "Post-Rock",
-            "Chamber Folk",
-            "Chamber Pop",
-            "Experiemental"
-        ]
-    },
-    {
-        "name": "In the Mountain in the Cloud",
-        "artist": "Portugal. The Man",
-        "genre": [
-            "Psychedlic Rock",
-            "Progressive Rock",
-            "Glam Rock",
-            "Art Rock"
-        ]
-    },
-    {
-        "name": "Evil Friends",
-        "artist": "Portugal. The Man",
-        "genre": [
-            "Psychedelic Pop",
-            "Psychedelic Rock",
-            "Progressive Rock"
-        ]
-    },
-    {
-        "name": "Sun Leads Me On",
-        "artist": "Half Moon Run",
-        "genre": [
-            "Indie Rock",
-            "Indie Folk",
-            "Indie Pop"
-        ]
-    },
-    {
-        "name": "Live at Bonnaroo '22",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": []
-    },
-    {
-        "name": "Gumboot Soup",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Psychedelic Rock",
-            "Neo-Psychedelia"
-        ]
-    },
-    {
-        "name": "Fishing for Fishies",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Boogie Rock",
-            "Blues Rock",
-            "Roots Rock"
-        ]
-    },
-    {
-        "name": "Hands In Our Names",
-        "artist": "Karima Walker",
-        "genre": []
-    },
-    {
-        "name": "In Rainbows",
-        "artist": "Radiohead",
-        "genre": [
-            "Art Rock",
-            "Alternative Rock",
-            "Experimental Rock",
-            "Art Pop",
-            "Electronica"
-        ]
-    },
-    {
-        "name": "I'm Wide Awake, It's Morning: A Companion",
-        "artist": "Bright Eyes",
-        "genre": []
-    },
-    {
-        "name": "Wolf",
-        "artist": "Tyler, the Creator",
-        "genre": [
-            "Alternative Hip Hop"
-        ]
-    },
-    {
-        "name": "Hell: The Sequel (EP)",
-        "artist": "Bad Meets Evil",
-        "genre": [
-            "Hip Hop"
-        ]
-    },
-    {
-        "name": "Achter Tag",
-        "artist": "Genetikk",
-        "genre": []
-    },
-    {
-        "name": "Ring der Nebelungen",
-        "artist": "Marsimoto",
-        "genre": []
-    },
-    {
-        "name": "6 Feet Beneath the Moon",
-        "artist": "King Krule",
-        "genre": [
-            "Indie Rock",
-            "Post-Punk",
-            "Jazz Fusion",
-            "Trip Hop"
-        ]
-    },
-    {
-        "name": "The OOZ",
-        "artist": "King Krule",
-        "genre": [
-            "Art Rock",
-            "Trip Hop",
-            "Jazz-Rock",
-            "Nu Jazz",
-            "Post-Punk",
-            "Dub"
-        ]
-    },
-    {
-        "name": "Cold Spring Fault Less You",
-        "artist": "Mount Kimbie",
-        "genre": [
-            "Electronic",
-            "Post-Dubstep",
-            "Art Pop"
-        ]
-    },
-    {
-        "name": "Love What Survives",
-        "artist": "Mount Kimbie",
-        "genre": [
-            "Post-Punk",
-            "Electronic"
-        ]
-    },
-    {
-        "name": "The Sunset Violent",
-        "artist": "Mount Kimbie",
-        "genre": [
-            "Indie Rock"
-        ]
-    },
-    {
-        "name": "'Allelujah! Don't Bend! Ascend!",
-        "artist": "Godspeed You! Black Emperor",
-        "genre": [
-            "Post-Rock",
-            "Experimental"
-        ]
-    },
-    {
-        "name": "Sunday Cravings",
-        "artist": "Highcoast",
-        "genre": []
-    },
-    {
-        "name": "Murder of the Universe",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Progressive Rock",
-            "Psychedelic Rock",
-            "Garage Rock",
-            "Progressive Metal"
-        ]
-    },
-    {
-        "name": "Super What?",
-        "artist": "Czarface and MF DOOM",
-        "genre": [
-            "Hip Hop",
-            "Boom Bap"
-        ]
-    },
-    {
-        "name": "Chunky Shrapnel",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": []
-    },
-    {
-        "name": "Eyes Like The Sky",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Garage Rock"
-        ]
-    },
-    {
-        "name": "Nonagon Infinity",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Progressive Rock",
-            "Psychedelic Rock",
-            "Garage Rock",
-            "Jazz Fusion",
-            "Heavy Metal"
-        ]
-    },
-    {
-        "name": "Butterfly 3000",
-        "artist": "King Gizzard & the Lizard Wizard",
-        "genre": [
-            "Dream Pop",
-            "Synth-Pop",
-            "Dance-Pop",
-            "Neo-Psychedelia",
-            "Art Pop"
-        ]
-    }
+  {
+    "title": "England Made Me",
+    "artist": "Black Box Recorder",
+    "genre": ["Country Folk", "Easy Listening", "Pop"]
+  },
+  {
+    "title": "Classics",
+    "artist": "Ratatat",
+    "genre": [
+      "Indie Rock",
+      "Electronica",
+      "Neo-Psychedelia",
+      "Experimental Rock"
+    ]
+  },
+  {
+    "title": "F\u266f A\u266f \u221e",
+    "artist": "Godspeed You! Black Emperor",
+    "genre": ["Post-Rock"]
+  },
+  {
+    "title": "Polygondwanaland",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": ["Progressive Rock", "Psychedelic Rock"]
+  },
+  {
+    "title": "Lift Your Skinny Fists Like Antennas to Heaven",
+    "artist": "Godspeed You! Black Emperor",
+    "genre": ["Post-Rock"]
+  },
+  {
+    "title": "Paper M\u00e2ch\u00e9 Dream Balloon",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": ["Folk Rock", "Psychedelic Folk", "Psychedelic Pop", "Dream Pop"]
+  },
+  {
+    "title": "Slow Riot for New Zero Kanada",
+    "artist": "Godspeed You! Black Emperor",
+    "genre": ["Post-Rock"]
+  },
+  {
+    "title": "PetroDragonic Apocalypse",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": ["Thrash Metal", "Progressive Metal"]
+  },
+  {
+    "title": "Flying Microtonal Banana",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": ["Psychedelic Rock", "Acid Rock", "Experimental Rock", "Krautrock"]
+  },
+  {
+    "title": "Bon Iver, Bon Iver",
+    "artist": "Bon Iver",
+    "genre": ["Post-Rock", "Chamber Folk", "Chamber Pop", "Experiemental"]
+  },
+  {
+    "title": "In the Mountain in the Cloud",
+    "artist": "Portugal. The Man",
+    "genre": ["Psychedlic Rock", "Progressive Rock", "Glam Rock", "Art Rock"]
+  },
+  {
+    "title": "Evil Friends",
+    "artist": "Portugal. The Man",
+    "genre": ["Psychedelic Pop", "Psychedelic Rock", "Progressive Rock"]
+  },
+  {
+    "title": "Sun Leads Me On",
+    "artist": "Half Moon Run",
+    "genre": ["Indie Rock", "Indie Folk", "Indie Pop"]
+  },
+  {
+    "title": "Live at Bonnaroo '22",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": []
+  },
+  {
+    "title": "Gumboot Soup",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": ["Psychedelic Rock", "Neo-Psychedelia"]
+  },
+  {
+    "title": "Fishing for Fishies",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": ["Boogie Rock", "Blues Rock", "Roots Rock"]
+  },
+  {
+    "title": "Hands In Our Names",
+    "artist": "Karima Walker",
+    "genre": []
+  },
+  {
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "genre": [
+      "Art Rock",
+      "Alternative Rock",
+      "Experimental Rock",
+      "Art Pop",
+      "Electronica"
+    ]
+  },
+  {
+    "title": "I'm Wide Awake, It's Morning: A Companion",
+    "artist": "Bright Eyes",
+    "genre": []
+  },
+  {
+    "title": "Wolf",
+    "artist": "Tyler, the Creator",
+    "genre": ["Alternative Hip Hop"]
+  },
+  {
+    "title": "Hell: The Sequel (EP)",
+    "artist": "Bad Meets Evil",
+    "genre": ["Hip Hop"]
+  },
+  {
+    "title": "Achter Tag",
+    "artist": "Genetikk",
+    "genre": []
+  },
+  {
+    "title": "Ring der Nebelungen",
+    "artist": "Marsimoto",
+    "genre": []
+  },
+  {
+    "title": "6 Feet Beneath the Moon",
+    "artist": "King Krule",
+    "genre": ["Indie Rock", "Post-Punk", "Jazz Fusion", "Trip Hop"]
+  },
+  {
+    "title": "The OOZ",
+    "artist": "King Krule",
+    "genre": [
+      "Art Rock",
+      "Trip Hop",
+      "Jazz-Rock",
+      "Nu Jazz",
+      "Post-Punk",
+      "Dub"
+    ]
+  },
+  {
+    "title": "Cold Spring Fault Less You",
+    "artist": "Mount Kimbie",
+    "genre": ["Electronic", "Post-Dubstep", "Art Pop"]
+  },
+  {
+    "title": "Love What Survives",
+    "artist": "Mount Kimbie",
+    "genre": ["Post-Punk", "Electronic"]
+  },
+  {
+    "title": "The Sunset Violent",
+    "artist": "Mount Kimbie",
+    "genre": ["Indie Rock"]
+  },
+  {
+    "title": "'Allelujah! Don't Bend! Ascend!",
+    "artist": "Godspeed You! Black Emperor",
+    "genre": ["Post-Rock", "Experimental"]
+  },
+  {
+    "title": "Sunday Cravings",
+    "artist": "Highcoast",
+    "genre": []
+  },
+  {
+    "title": "Murder of the Universe",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": [
+      "Progressive Rock",
+      "Psychedelic Rock",
+      "Garage Rock",
+      "Progressive Metal"
+    ]
+  },
+  {
+    "title": "Super What?",
+    "artist": "Czarface and MF DOOM",
+    "genre": ["Hip Hop", "Boom Bap"]
+  },
+  {
+    "title": "Chunky Shrapnel",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": []
+  },
+  {
+    "title": "Eyes Like The Sky",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": ["Garage Rock"]
+  },
+  {
+    "title": "Nonagon Infinity",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": [
+      "Progressive Rock",
+      "Psychedelic Rock",
+      "Garage Rock",
+      "Jazz Fusion",
+      "Heavy Metal"
+    ]
+  },
+  {
+    "title": "Butterfly 3000",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "genre": [
+      "Dream Pop",
+      "Synth-Pop",
+      "Dance-Pop",
+      "Neo-Psychedelia",
+      "Art Pop"
+    ]
+  }
 ]
